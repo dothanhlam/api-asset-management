@@ -1,0 +1,29 @@
+{
+  "name": "api-asset-management",
+  "version": "0.0.1",
+  "description": "the endpoint apis",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dothanhlam/api-asset-management.git"
+  },
+  "keywords": [
+    "api",
+    "sams",
+    "endpoint"
+  ],
+  "author": "Lam Do",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dothanhlam/api-asset-management/issues"
+  },
+  "homepage": "https://github.com/dothanhlam/api-asset-management",
+  "dependencies": {
+    "body-parser": "1.15.2",
+    "express": "4.14.0",
+    "mongoose": "4.6.6"
+  }
+}
